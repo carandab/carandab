@@ -1,14 +1,25 @@
 # 👋 ¡Hola! Soy Cristian Aranda
 
-![Banner](https://github.com/carandab/carandab/blob/main/Banner.png?raw=true)
+![Banner](./Banner.png)
 
-### 💼 Trabajador Social → Full Stack Developer
+## 💼 Trabajador Social → Full Stack Developer
 
 Soy un profesional en transición desde el Trabajo Social hacia el desarrollo de software, combinando mi experiencia en el sector público con habilidades técnicas en desarrollo web. Actualmente completando el bootcamp Full Stack Python/Django con Talento Digital.
 
 ---
 
-## 🚀 Sobre Mí
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-arandab)
+[![GitHub](https://img.shields.io/badge/GitHub-carandab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carandab)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Online-FF7B72?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-cristian-aranda.onrender.com/)
+
+---
+
+<details open>
+<summary>🚀 Sobre Mí</summary>
+
+<br>
 
 - 🎓 **Trabajador Social** - Universidad Santo Tomás (2017-2021)
 - 💻 **Full Stack Developer** en formación - Bootcamp Talento Digital 2024-2025
@@ -17,9 +28,37 @@ Soy un profesional en transición desde el Trabajo Social hacia el desarrollo de
 - 🎯 Buscando oportunidades como **Python/Django Developer**
 - 📍 La Cruz, Valparaíso, Chile
 
----
+</details>
 
-## 🛠️ Tech Stack
+<details open>
+<summary>💻 Proyectos Destacados</summary>
+
+<br>
+
+### 🐾 [GoWest Petshop](https://github.com/carandab/GoWest_Petshop_Project)
+Plataforma e-commerce completa para productos de mascotas
+- **Tech:** Django, PostgreSQL, Bootstrap, JavaScript
+- **Features:** Gestión de productos, carrito de compras, autenticación
+- **[Ver Demo →](https://gowest-petshop.onrender.com/)**
+
+### 💼 [Portafolio Personal](https://github.com/carandab/Portafolio)
+Portafolio profesional con CRUD y panel de administración
+- **Tech:** Django, PostgreSQL, Bootstrap
+- **Features:** CRUD de proyectos, sistema de skills, consultas SQL personalizadas
+- **[Ver Demo →](https://portafolio-cristian-aranda.onrender.com/)**
+
+### 📋 [TaskManager Pro](https://github.com/carandab/M6_Evaluacion_Modulo)
+Sistema de gestión de tareas con asignación de usuarios
+- **Tech:** Django, MySQL, Bootstrap
+- **Features:** CRUD completo, asignación de tareas, estados personalizados
+- **[Ver Demo →](https://m6-evaluacion-modulo.onrender.com)**
+
+</details>
+
+<details>
+<summary>🛠️ Tech Stack</summary>
+
+<br>
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,40 +79,12 @@ Soy un profesional en transición desde el Trabajo Social hacia el desarrollo de
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
-<!-- 
-## 📊 GitHub Stats
+</details>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carandab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carandab&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<details>
+<summary>📈 Trayectoria</summary>
 
---- -->
-
-##  - Proyectos Destacados
-
-### 🐾 [GoWest Petshop](https://github.com/carandab/GoWest_Petshop_Project)
-Plataforma e-commerce completa para productos de mascotas
-- **Tech:** Django, PostgreSQL, Bootstrap, JavaScript
-- **Features:** Gestión de productos, carrito de compras, autenticación
-- **[Ver Demo →](https://gowest-petshop.onrender.com/)**
-
-### 💼 [Portafolio Personal](https://github.com/carandab/Portafolio)
-Portafolio profesional con CRUD y panel de administración
-- **Tech:** Django, PostgreSQL, Bootstrap
-- **Features:** CRUD de proyectos, sistema de skills, consultas SQL personalizadas
-- **[Ver Demo →](https://portafolio-cristian-aranda.onrender.com/)**
-
-### 📋 [TaskManager Pro](https://github.com/carandab/M6_Evaluacion_Modulo)
-Sistema de gestión de tareas con asignación de usuarios
-- **Tech:** Django, MySQL, Bootstrap
-- **Features:** CRUD completo, asignación de tareas, estados personalizados
-- **[Ver Demo →](https://m6-evaluacion-modulo.onrender.com)**
-
----
-
-## 📈 Trayectoria
+<br>
 
 ```python
 class CristianAranda:
@@ -101,31 +112,23 @@ class CristianAranda:
         return "Buscando oportunidades como Python/Django Developer 🚀"
 ```
 
----
+</details>
 
-## 📫 Contacto
+<details>
+<summary>🎓 Certificaciones & Fun Facts</summary>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-arandab)
-[![GitHub](https://img.shields.io/badge/GitHub-carandab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carandab)
-[![Portafolio](https://img.shields.io/badge/Portfolio-Ver_Online-FF7B72?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-cristian-aranda.onrender.com/)
+<br>
 
-
----
-
-## 💡 Fun Facts
-
-- 🎯 De Trabajador Social a Developer: aplicando habilidades blandas en el mundo tech
-- 🌱 Aprendizaje continuo: actualmente explorando React y APIs REST
-
----
-
-## 🎓 Certificaciones
-
+### Certificaciones
 - ✅ **Full Stack Python/Django** - Talento Digital (En curso)
 - ✅ **Trabajador Social** - Universidad Santo Tomás
 - 🔜 Próximamente: Mucho más!
 
+### 💡 Fun Facts
+- 🎯 De Trabajador Social a Developer: aplicando habilidades blandas en el mundo tech
+- 🌱 Aprendizaje continuo: actualmente explorando React y APIs REST
 
+</details>
 
 ---
 
