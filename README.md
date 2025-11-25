@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Cristian Aranda
 
 <p align="center">
-  <img src="https://carandab.github.io/carandab/Banner.jpg" alt="Banner" width="100%">
+  <img src="https://carandab.github.io/carandab/Banner.png" alt="Banner" width="100%">
 </p>
 
 ### 💼 Trabajador Social → Full Stack Developer
