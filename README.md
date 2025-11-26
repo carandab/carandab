@@ -30,7 +30,7 @@ Soy un profesional en transición desde el Trabajo Social hacia el desarrollo de
 
 </details>
 
-<details open>
+<details>
 <summary>💻 Proyectos Destacados</summary>
 
 <br>
