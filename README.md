@@ -16,7 +16,7 @@ Soy un profesional en transición desde el Trabajo Social hacia el desarrollo de
 
 ---
 
-<details open>
+<details>
 <summary>🚀 Sobre Mí</summary>
 
 <br>
