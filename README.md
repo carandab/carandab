@@ -35,7 +35,7 @@ Soy un profesional en transición desde el Trabajo Social hacia el desarrollo de
 
 <br>
 
-### 🐾 [GoWest Petshop](https://github.com/carandab/GoWest_Petshop_Project)
+### 🐾 [GoWest Petshop](https://github.com/carandab/GoWest_Petshop)
 Plataforma e-commerce completa para productos de mascotas
 - **Tech:** Django, PostgreSQL, Bootstrap, JavaScript
 - **Features:** Gestión de productos, carrito de compras, autenticación
